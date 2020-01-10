@@ -1,0 +1,16 @@
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/model/Role.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/mongo/MongoFactory.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/controller/LoginController.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/repository/RoleRepository.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/repository/UserRepository.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/service/CustomUserDetailsService.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/mongo/MongoConfig.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/configuration/CustomizeAuthenticationSuccessHandler.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/model/Message.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/service/UserServiceImpl.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/configuration/AppInitializer.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/validation/UserValidator.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/security/WebSecurityConfig.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/model/User.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/configuration/AppConfig.java
+/Users/anna/eclipse-workspace/cool/src/main/java/network/cool/service/UserService.java
